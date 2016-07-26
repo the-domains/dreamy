@@ -1,0 +1,14 @@
+layout_spectrum: 0.002122321166098118
+typography_spectrum: 0.48875161027535796
+color:
+  brandStrength: 0.964997949777171
+  lightness: 0.018428726587444544
+  saturation: 0.33047351497225463
+  rhythmicContrast: 0.1915648935828358
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: dreamy
